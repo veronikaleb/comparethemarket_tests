@@ -1,4 +1,4 @@
-# 📋 CompareTheMarket QA Test Documentation
+# 📋 Compare The Market QA Test Documentation
 
 Welcome to the **CompareTheMarket QA test documentation** repository.  
 This repo contains test artifacts created as part of QA tasks, including test plans, checklists, bug reports, and test results.
